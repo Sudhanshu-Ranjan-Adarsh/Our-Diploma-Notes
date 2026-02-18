@@ -1,8 +1,8 @@
 # Our-Diploma-Notes
-All subjects pdf characters here..
+All subjects pdf characters here. Diploma with greater flexibility initially but fewer at last😀😀
 
-## Features 
+## 🫠🫠 Features 
   - All subjects copy
 
-## Author
+## 🥰😍 Author
   -Sudhanshu Ranjan Adarsh 
